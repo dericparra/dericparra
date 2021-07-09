@@ -5,7 +5,7 @@
 
 # 🌃Front-End Developer
 
-### Desenvolvedor Jr com sede de conhecimento, paixão por aprender e compartilhar aprendizado.
+### Desenvolvedor com sede de conhecimento, paixão por aprender e compartilhar aprendizado.
 
 ## 🖥Habilidades
 
