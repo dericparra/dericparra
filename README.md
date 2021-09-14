@@ -2,6 +2,9 @@
   <img align='center' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 <p/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dericparra)](https://github.com/dericparra/github-readme-stats)
+
+
 
 # 🌃Front-End Developer
 
