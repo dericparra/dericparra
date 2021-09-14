@@ -2,14 +2,11 @@
   <img align='center' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 <p/>
 
-<a href="https://github.com/dericparra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dericparra&repo=github-readme-stats" />
-</a>
-
-<a href="https://github.com/dericparra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dericparra&layout=compact" />
-</a>
-
+ <div>
+  <a href="https://github.com/dericparra">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dericparra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dericparra&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 
