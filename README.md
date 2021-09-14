@@ -1,9 +1,14 @@
 <p align='center'>
   <img align='center' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 <p/>
+<a href="https://github.com/dericparra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dericparra&repo=github-readme-stats" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dericparra)](https://github.com/dericparra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dericparra&layout=compact)](https://github.com/dericparra/github-readme-stats)
+<a href="https://github.com/dericparra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dericparra&layout=compact" />
+</a>
+
 
 
 
