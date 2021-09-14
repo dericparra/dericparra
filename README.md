@@ -2,8 +2,8 @@
   <img align='center' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 <p/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dericparra" />
+<a href="https://github.com/dericparra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dericparra&repo=github-readme-stats" />
 </a>
 
 <a href="https://github.com/dericparra/github-readme-stats">
