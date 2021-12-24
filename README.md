@@ -10,7 +10,7 @@
   <img align="center" alt="Let-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-##<a href="https://dericparra.github.io/">Site Pessoal</a>
+## 💻 Página Pessoal: <a href="https://dericparra.github.io/">https://dericparra.github.io/</a>
 
 ## 📱Socials
 <div> 
