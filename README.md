@@ -11,6 +11,7 @@
 </div>
 
 ## 📱Socials
+<a href="https://dericparra.github.io/">Site Pessoal</a>
 <div> 
   <a href="https://codepen.io/DericRangel013" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
