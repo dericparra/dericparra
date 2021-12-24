@@ -10,8 +10,9 @@
   <img align="center" alt="Let-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+##<a href="https://dericparra.github.io/">Site Pessoal</a>
+
 ## 📱Socials
-<a href="https://dericparra.github.io/">Site Pessoal</a>
 <div> 
   <a href="https://codepen.io/DericRangel013" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
