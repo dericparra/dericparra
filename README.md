@@ -1,6 +1,6 @@
 # 🌃Front-End Developer
 
-### Desenvolvedor com sede de conhecimento, paixão por aprender e compartilhar aprendizado.
+### Estudo desenvolvimento front end, tenho ótimas noções de HTML, CSS e JS e atualmente tenho focado meus estudos em React e seu ecossistema.
 
 ## 🖥Habilidades
 <div style="display: inline_block"><br>
